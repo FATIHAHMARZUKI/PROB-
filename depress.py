@@ -70,6 +70,6 @@ if journal_entry:
 
 # Resources for Support
 st.subheader("Resources for Support")
-st.write("[Mental Health America](https://www.mhanational.org/)")
-st.write("[Anxiety and Depression Association of America](https://adaa.org/)")
+st.write("[Malaysian Mental Health Association](https://mmha.org.my)")
+
 
